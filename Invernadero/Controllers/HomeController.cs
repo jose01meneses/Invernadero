@@ -11,7 +11,6 @@ namespace Invernadero.Controllers
         public ActionResult Index()
         {
             // comentario de prueba
-            // comentario de prueba 2
             return View();
         }
 
