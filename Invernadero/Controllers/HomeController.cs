@@ -10,6 +10,7 @@ namespace Invernadero.Controllers
     {
         public ActionResult Index()
         {
+            // comentario de prueba
             return View();
         }
 
